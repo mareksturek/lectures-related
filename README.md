@@ -4,6 +4,8 @@
   
 <br />
 
+<div align="left">
+
 |#  |    Subject #  |                 Subject Name               |  Presentation |   Source   |  
 |:-:|:--------------|:------------------------------------------:|:-------------:|:----------:|
 |1  | MNG/IPP21     |:Veřejné zdravotnictví                      |    [Pdf]()    |   [Pdf]()  |  
@@ -14,5 +16,4 @@
 |6  | MNG/RGA24     | Zdravotní politika a veřejné zdravotnictví |    [Pdf]()    |   [Pdf]()  | 
 |7  | MNG/VOP22     | Veřejné zdravotnictví                      |    [Pdf]()    |   [Pdf]()  | 
 
-
-  
+</div>
