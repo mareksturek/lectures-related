@@ -5,6 +5,7 @@
 <br />
 
 <div align="center">
+</div>
 
 |#  |    Subject #  |                 Subject Name               |  Presentation |   Source   |  
 |:-:|:--------------|:-------------------------------------------|:-------------:|:----------:|
@@ -16,4 +17,3 @@
 |6  | MNG/RGA24     | Zdravotní politika a veřejné zdravotnictví |    [Pdf]()    |   [Pdf]()  | 
 |7  | MNG/VOP22     | Veřejné zdravotnictví                      |    [Pdf]()    |   [Pdf]()  | 
 
-</div>
