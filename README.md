@@ -5,7 +5,7 @@
 
 
 |    Subject #  |                 Subject Name               |  Presentation |   Source   |  
-|:-------------:|:-------------------------------------------|:-------------:|:----------:|
+|:--------------|:-------------------------------------------|:-------------:|:----------:|
 | MNG/IPP21     | Veřejné zdravotnictví                      |    [Pdf]()    |   [Pdf]()  |  
 | MNG/OPZ03     | Basics of Demography                       |    [Pdf]()    |   [Pdf]()  |  
 | MNG/PAA34     | Veřejné zdravotnictví                      |    [Pdf]()    |   [Pdf]()  | 
