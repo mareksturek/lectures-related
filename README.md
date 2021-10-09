@@ -38,9 +38,9 @@
   - [abc]()   
   
   
-| Subject #     | Subject Name  | Presentation  | Source        |  
-|:-------------:|:-------------:|:-------------:|:-------------:|
-|   |   |   |   |   |
+| Subject #     |                              Subject Name  | Presentation  | Source        |  
+|:-------------:|:------------------------------------------:|:-------------:|:-------------:|
+| MNG/IPP21     | Veřejné zdravotnictví                      | [abc]()       | [abc]()  |  
 |   |   |   |   |   |
 |   |   |   |   |   |
   
