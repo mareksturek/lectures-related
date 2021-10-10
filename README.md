@@ -9,7 +9,7 @@
 
 |#  |    Subject #  |                 Subject Name               |  Presentation |  
 |:-:|:--------------|:-------------------------------------------|:-------------:|
-|1  | MNG/IPP21     | Veřejné zdravotnictví                      |    [Pdf]()    |   
+|1  | MNG/IPP21     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/subjects/MNG_IPP21/MNG_IPP21.pdf)    |   
 |2  | MNG/OPZ03     | Basics of Demography                       |    [Pdf]()    |  
 |3  | MNG/PAA34     | Veřejné zdravotnictví                      |    [Pdf]()    |  
 |4  | MNG/PTA01     | Public Health                              |    [Pdf]()    |  
