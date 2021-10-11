@@ -7,7 +7,7 @@
 <div align="center">
 </div>
 
-|#  |    Subject #  |                 Subject Name               |  Presentation |  
+|#  |    Course #   |                 Course Name                |  Presentation |  
 |:-:|:--------------|:-------------------------------------------|:-------------:|
 |1  | MNG/IPP21     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/subjects/MNG_IPP21/MNG_IPP21.pdf)    |   
 |2  | MNG/OPZ03     | Basics of Demography                       |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/subjects/MNG_OZP03/MNG_OZP03.pdf)    |  
