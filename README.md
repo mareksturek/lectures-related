@@ -10,7 +10,7 @@
 |#  |    Course #   |                 Course Name                |  Presentation |  
 |:-:|:--------------|:-------------------------------------------|:-------------:|
 |1  | MNG/IPP21     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_IPP21/MNG_IPP21.pdf)    |   
-|2  | MNG/OPZ03     | Basics of Demography.                       |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_OZP03/MNG_OZP03.pdf)    |  
+|2  | MNG/OPZ03     | Basics of Demography                       |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_OZP03/MNG_OZP03.pdf)    |  
 |3  | MNG/PAA34     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_PAA34/MNG_PAA34.pdf)    |  
 |4  | MNG/PTA01     | Public Health                              |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_PTA01/MNG_PTA01.pdf)    |  
 |5  | MNG/RGA23     | Základy managementu ve zdravotnictví       |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RGA23/MNG_RGA23.pdf)    |  
