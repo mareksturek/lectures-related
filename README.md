@@ -7,7 +7,7 @@
 <div align="center">
 </div>
 
-Winter Semester
+<h5>Winter Semester</h5>
 
 |#  |    Course #   |                 Course Name                |  Presentation |  
 |:-:|:--------------|:-------------------------------------------|:-------------:|
