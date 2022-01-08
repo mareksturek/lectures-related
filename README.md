@@ -32,11 +32,7 @@
 
 <h5>Note:</h5>
 
-
-    
 If you have any questions don't hesitate to contact me at <a>mareksturek@outlook.com</a> 
     
-<a href="mareksturek@outlook.com"> Email_id </a>
-    
-<a href="mailto:mareksturek@outlook.com"> Email_id </a>
+
     
