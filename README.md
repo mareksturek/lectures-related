@@ -22,12 +22,12 @@
 
 <h5>Summer Semester</h5>
 
-|#  |    Course #   |                 Course Name                |  Presentation |  
-|:-:|:--------------|:-------------------------------------------|:-------------:|
-|1  | MNG/VSB40     | Veřejné zdravotnictví                      |    [Pdf]      |   
-|2  | MNG/ETB31     | Základy zdravotnického managementu         |    [Pdf]      |  
-|3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf]      |  
-|4  | MNG/RZP33     | Strategické analýzy                        |    [Pdf]      |  
+|#  |    Course #   |                 Course Name                |  Presentation   |  
+|:-:|:--------------|:-------------------------------------------|:---------------:|
+|1  | MNG/VSB40     | Veřejné zdravotnictví                      |    [Pdf]()      |   
+|2  | MNG/ETB31     | Základy zdravotnického managementu         |    [Pdf]()      |  
+|3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf]()      |  
+|4  | MNG/RZP33     | Strategické analýzy                        |    [Pdf]()      |  
 
 <br />
 
