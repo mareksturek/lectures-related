@@ -20,7 +20,7 @@ Winter Semester
 |7  | MNG/VOP22     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_VOP22/MNG_VOP22.pdf)    |  
 
 
-Summer Semester
+<h5>Summer Semester</h5>
 
 |#  |    Course #   |                 Course Name                |  Presentation |  
 |:-:|:--------------|:-------------------------------------------|:-------------:|
