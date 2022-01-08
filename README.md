@@ -34,6 +34,6 @@
 
 <em>
     
-    If you have any questions don't hesitate to contact me at [linked text](mailto:email address)<mareksturek@outlook.com>.
+    If you have any questions don't hesitate to contact me at [linked text](mailto:mareksturek@outlook.com)
     
 </em>
