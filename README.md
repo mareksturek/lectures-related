@@ -7,6 +7,8 @@
 <div align="center">
 </div>
 
+Winter Semester
+
 |#  |    Course #   |                 Course Name                |  Presentation |  
 |:-:|:--------------|:-------------------------------------------|:-------------:|
 |1  | MNG/IPP21     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_IPP21/MNG_IPP21.pdf)    |   
@@ -16,3 +18,13 @@
 |5  | MNG/RGA23     | Základy managementu ve zdravotnictví       |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RGA23/MNG_RGA23.pdf)    |  
 |6  | MNG/RGA24     | Zdravotní politika a veřejné zdravotnictví |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RGA24/MNG_RGA24.pdf)    |  
 |7  | MNG/VOP22     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_VOP22/MNG_VOP22.pdf)    |  
+
+
+Summer Semester
+
+|#  |    Course #   |                 Course Name                |  Presentation |  
+|:-:|:--------------|:-------------------------------------------|:-------------:|
+|1  | MNG/VSB40     | Veřejné zdravotnictví                      |    [Pdf]      |   
+|2  | MNG/ETB31     | Základy zdravotnického managementu         |    [Pdf]      |  
+|3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf]      |  
+|4  | MNG/RZP33     | Strategické analýzy                        |    [Pdf]      |  
