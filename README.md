@@ -34,6 +34,10 @@
 
 <em>
     
-    If you have any questions don't hesitate to contact me at [linked text](mailto:mareksturek@outlook.com)
+    If you have any questions don't hesitate to contact me at [email us](mailto:te...@mail.com) <a>mareksturek@outlook.com</a> 
+    
+    <a href="mareksturek@outlook.com"> Email_id </a>
+    
+    <a href="mailto:mareksturek@outlook.com"> Email_id </a>
     
 </em>
