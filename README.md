@@ -2,7 +2,6 @@
 
 ## Table of Content  
   
-<br />
 
 <div align="center">
 </div>
