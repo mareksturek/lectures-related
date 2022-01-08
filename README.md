@@ -27,3 +27,8 @@
 |2  | MNG/ETB31     | Základy zdravotnického managementu         |    [Pdf]      |  
 |3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf]      |  
 |4  | MNG/RZP33     | Strategické analýzy                        |    [Pdf]      |  
+
+<br />
+
+<h5>Note:</h5>
+If you have any questions don't hesitate to contact me at mareksturek@outlook.com
