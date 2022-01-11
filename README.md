@@ -33,7 +33,5 @@
 
 <h5>Note:</h5>
 
-If you have any questions don't hesitate to contact me at <a>mareksturek@outlook.com</a> 
-    
-
+If you have any questions or need further information, please feel free to to contact me at <a>mareksturek@outlook.com</a>
     
