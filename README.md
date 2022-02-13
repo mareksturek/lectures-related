@@ -24,14 +24,14 @@
 
 |#  |    Course #   |                 Course Name                |  Presentation   |  
 |:-:|:--------------|:-------------------------------------------|:---------------:|
-|1  | MNG/VSB40     | Veřejné zdravotnictví                      |    [Pdf]()      |   
-|2  | MNG/ETB31     | Základy zdravotnického managementu         |    [Pdf]()      |  
-|3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf]()      |  
-|4  | MNG/RZP33     | Strategické analýzy                        |    [Pdf]()      |  
+|1  | MNG/VSB40     | Veřejné zdravotnictví                      |    ()      |   
+|2  | MNG/ETB31     | Základy zdravotnického managementu         |    ()      |  
+|3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_IPP04/MNG_IPP04.pdf)      |  
+|4  | MNG/RZP33     | Strategické analýzy                        |    ()      |  
 
 <br />
 
 <h5>Note:</h5>
 
-If you have any questions or need further information, please feel free to contact me at <a>mareksturek@outlook.com</a>
+If you have any questions or need further assistance, please feel free to contact me at <a>marek.sturek@upol.cz</a>
     
