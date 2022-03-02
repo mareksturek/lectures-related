@@ -24,10 +24,10 @@
 
 |#  |    Course #   |                 Course Name                |  Presentation   |  
 |:-:|:--------------|:-------------------------------------------|:---------------:|
-|1  | MNG/VSB40     | Veřejné zdravotnictví                      |          |   
+|1  | MNG/VSB40     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_VSB40/MNG_VSB40.pdf)   |   
 |2  | MNG/ETB31     | Základy zdravotnického managementu         |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ETB31/MNG_ETB31.pdf)   |  
-|3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_IPP04/MNG_IPP04.pdf)      |  
-|4  | MNG/RZP33     | Strategické analýzy                        |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP33/MNG_RZP33.pdf)  |  
+|3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_IPP04/MNG_IPP04.pdf)   |  
+|4  | MNG/RZP33     | Strategické analýzy                        |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP33/MNG_RZP33.pdf)   |  
 
 <br />
 
