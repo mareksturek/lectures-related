@@ -18,6 +18,8 @@
 |5  | MNG/RGA23     | Základy managementu ve zdravotnictví       |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RGA23/MNG_RGA23.pdf)    |  
 |6  | MNG/RGA24     | Zdravotní politika a veřejné zdravotnictví |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RGA24/MNG_RGA24.pdf)    |  
 |7  | MNG/VOP22     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_VOP22/MNG_VOP22.pdf)    |  
+|8  | MNG/ZTA21     | Management kvality ve zdravotnictví        |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ZTA21/MNG_ZTA21.pdf)    |  
+
 
 
 <h5>Summer Semester</h5>
