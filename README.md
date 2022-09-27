@@ -20,7 +20,8 @@
 |7  | MNG/RZP08     | Kvalita a bezpečnost ve zdravotnictví I    |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP08/MNG_RZP08.pdf)    | 
 |8  | MNG/RZP29     | Akreditace ve zdravotnictví                |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP29/MNG_RZP29.pdf)    | 
 |9  | MNG/VOP22     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_VOP22/MNG_VOP22.pdf)    |  
-|10  | MNG/ZTA21     | Management kvality ve zdravotnictví       |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ZTA21/MNG_ZTA21.pdf)    |  
+|10  | MNG/ZTA02    | Zdravotní politika a zdravotnické systémy  |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ZTA02/MNG_ZTA02.pdf)    |  
+|11  | MNG/ZTA21    | Management kvality ve zdravotnictví        |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ZTA21/MNG_ZTA21.pdf)    |  
 
 
 
