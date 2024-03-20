@@ -35,7 +35,7 @@
 |3  | MNG/IPP04     | Řízení lidských zdrojů                     |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_IPP04/MNG_IPP04.pdf)   |  
 |4  | MNG/RZP33     | Strategické analýzy                        |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP33/MNG_RZP33.pdf)   |  
 |5  | MNG/ORB15     | Zdravotnické instituce                     |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ORB15/MNG_ORB15.pdf)   |  
-|6  | MNG/RZP17     | Kvalita a bezpečnost ve zdravotnictví II   |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP17/MNG_RZP17.pdf)   |  
+|6  | MNG/RZP17     | Kvalita a bezpečnost ve zdravotnictví II.  |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP17/MNG_RZP17.pdf)   |  
 |7  | MNG/ORP25     | Kapitoly z managementu II.                 |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ORP25/MNG_ORP25.pdf)   |  
 
 
