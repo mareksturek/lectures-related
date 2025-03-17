@@ -20,7 +20,7 @@
 |7  | MNG/RGA24     | Zdravotní politika a veřejné zdravotnictví |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RGA24/MNG_RGA24.pdf)    |  
 |8  | MNG/RZP08     | Kvalita a bezpečnost ve zdravotnictví I    |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP08/MNG_RZP08.pdf)    | 
 |9  | MNG/RZP29     | Akreditace ve zdravotnictví                |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP29/MNG_RZP29.pdf)    | 
-|10  | MNG/VOP22     | Veřejné zdravotnictví                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_VOP22/MNG_VOP22.pdf)    |  
+|10  | MNG/VOP22     | Veřejné zdravotnictví                     |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_VOP22/MNG_VOP22.pdf)    |  
 |11  | MNG/ZTA02    | Zdravotní politika a zdravotnické systémy  |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ZTA02/MNG_ZTA02.pdf)    |  
 |12  | MNG/ZTA21    | Management kvality ve zdravotnictví        |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ZTA21/MNG_ZTA21.pdf)    |  
 
@@ -37,7 +37,7 @@
 |5  | MNG/ORB15     | Zdravotnické instituce                     |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ORB15/MNG_ORB15.pdf)   |  
 |6  | MNG/RZP17     | Kvalita a bezpečnost ve zdravotnictví II.  |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP17/MNG_RZP17.pdf)   |  
 |7  | MNG/ORP25     | Kapitoly z managementu II.                 |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ORP25/MNG_ORP25.pdf)   |  
-
+|8  | FYT/PTB44     | Healthcare Management                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/FYT_PTB44/FYT_PTB44.pdf)   | 
 
 <br />
 
