@@ -38,6 +38,7 @@
 |6  | MNG/RZP17     | Kvalita a bezpečnost ve zdravotnictví II.  |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_RZP17/MNG_RZP17.pdf)   |  
 |7  | MNG/ORP25     | Kapitoly z managementu II.                 |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ORP25/MNG_ORP25.pdf)   |  
 |8  | FYT/PTB44     | Healthcare Management                      |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/FYT_PTB44/FYT_PTB44.pdf)   | 
+|9  | MNG/ZTP05     | Management rizik a krizové situace         |    [Pdf](https://github.com/mareksturek/lectures-related/blob/main/courses/MNG_ZTP05/MNG_ZTP05.pdf)   |
 
 <br />
 
